@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BitCamera</string>
+    <string name="save">บันทึก</string>
+    <string name="camera">กดเพื่อเลือกกล้อง</string>
+    <string name="cancel">กลับ</string>
+
+</resources>
